@@ -16,10 +16,8 @@ Me chamo Tiago Costa Dos Santos, tenho 10 anos, mora em Brasilia. Concluí o ens
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/tiago-costacs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        
-    </a>
-    />
+            src="https://custom-icon-badges.demolab.com/github/followers/tiago-costacs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"</a>
+    
 
 
 </p>
