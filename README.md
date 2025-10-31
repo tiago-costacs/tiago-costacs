@@ -10,8 +10,7 @@ Me chamo Tiago Costa Dos Santos, tenho 10 anos, mora em Brasilia. Concluí o ens
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/tiago-costacs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+       </a>
     <a href="https://github.com/tiago-costacs?tab=followers">
         <img 
             alt="Seguidores" 
