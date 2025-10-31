@@ -1,4 +1,4 @@
-# 👨 Tiago Costa 
+# 🧑🏻‍💻 Tiago Costa 
 
 **`Desenvolvedor front end/Cybersecurity`**
 
@@ -17,7 +17,38 @@ Me chamo Tiago Costa Dos Santos, tenho 10 anos, mora em Brasilia. Concluí o ens
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/tiago-costacs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        
+    </a>
+    />
+
+
+</p>
+# 🧑🏻‍💻 Tiago Costa 
+
+**`Desenvolvedor front end/Cybersecurity`**
+
+Me chamo Tiago Costa Dos Santos, tenho 10 anos, mora em Brasilia. Concluí o ensino médio no Sesi Df, com o curso técnico em Redes De Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB.
+
+<p>    <a href="https://github.com/tiago-costacs
+?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/tiago-costacs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
+    </a>
+    <a href="https://github.com/tiago-costacs?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/tiago-costacs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        
+    </a>
+    />
+
+
+</p>
+
     </a>
     />
 
