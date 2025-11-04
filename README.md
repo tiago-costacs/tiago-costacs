@@ -2,7 +2,7 @@
 
 **`Desenvolvedor front end/Cybersecurity`**
 
-Me chamo Tiago Costa Dos Santos, tenho 10 anos, mora em Brasilia. Concluí o ensino médio no Sesi Df, com o curso técnico em Redes De Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB.
+Me chamo Tiago Costa Dos Santos, tenho 19 anos, mora em Brasilia. Concluí o ensino médio no Sesi Df, com o curso técnico em Redes De Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB.
 
 <p>    <a href="https://github.com/tiago-costacs
 ?tab=repositories&sort=stargazers">
