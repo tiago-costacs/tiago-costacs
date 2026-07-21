@@ -1,83 +1,75 @@
-# 🧑🏻‍💻 Tiago Costa 
+# Hi 👋, I'm Tiago Costa
 
-**`Desenvolvedor front end/Cybersecurity`**
+🚀 Full Stack Developer
+🇧🇷 Brasília, Brazil
 
-Me chamo Tiago Costa Dos Santos, tenho 19 anos, mora em Brasilia. Concluí o ensino médio no Sesi Df, com o curso técnico em Redes De Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB.
+I build modern web applications, SaaS platforms, and business systems using React, Next.js, Node.js, and TypeScript.
 
-<p>    <a href="https://github.com/tiago-costacs
-?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/tiago-costacs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-       </a>
-    <a href="https://github.com/tiago-costacs?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/tiago-costacs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"</a>
-    
+Currently, I'm a Full Stack Development Intern, working on enterprise applications, REST APIs, database design, and scalable software solutions. I'm passionate about clean architecture, performance, and building products that solve real business problems.
 
+---
 
+## 🧠 What I do
+
+🏗️ SaaS & Business Systems
+
+⚛️ Modern Web Applications
+
+🔌 REST APIs & Backend Development
+
+📊 Dashboards & Data Visualization
+
+🤖 AI Integrations & Automation
+
+🔐 Authentication & Authorization
+
+🐳 Dockerized Applications
+
+💾 Database Modeling & Optimization
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Philosophy
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+> "Great software isn't just about writing code.
+> It's about creating scalable solutions that generate real business value."
 
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+⭐ Feel free to explore my repositories.
 
-<img 
-align="left" 
-    alt="Kalilinux" 
-    title="Kali linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original-wordmark.svg" />
-
-
-<img 
-align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-
-
-<br/>
-<br/>
-
+🤝 I'm always open to collaborations, freelance projects, and new opportunities.
